@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Oshani Lakchani
 - 👀 I’m interested in ...Test Automation
 - 🌱 I’m currently learning ...Test Automation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with others Software Testers.
+- 🥅 2023 Goals: Contribute more to Automation Projects with new trends
 - 📫 How to reach me ...oshilakchani@gmail.com
 
 <!---
